@@ -7,7 +7,7 @@ This is relevant in compression when an algorithm still uses invisible pixels fo
 ## Running
 
 For ease of use I recommend adding this script to your PATH.<br>
-Learn how to do that here: (How To Set Path Environment Variables In Windows)[https://www.addictivetips.com/windows-tips/set-path-environment-variables-in-windows-10/]
+Learn how to do that here: [How To Set Path Environment Variables In Windows](https://www.addictivetips.com/windows-tips/set-path-environment-variables-in-windows-10/)
 
 ***
 
